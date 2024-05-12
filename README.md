@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=TSATOA%27s%20Github&fontSize=50" />
 
 <h3 align="center"><b> 👋 Hi! I'm Taegon Kim 👋 </b></h3>
+<p align="center">Currently a Computer Science student at Sogang University, I am deeply passionate about game development. I am dedicated to enhancing gaming experiences and advancing in software technology using both Unity and Unreal Engine.</p>
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
