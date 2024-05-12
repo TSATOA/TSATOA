@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=TSATOA's Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=TSATOA%27s%20Github&fontSize=50" />
 
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
