@@ -8,7 +8,7 @@
 <p align="center">
 <a href="mailto:tg8591@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tg8591@gmail.com"/></a>
 <a href="https://www.instagram.com/taegon._.0202"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/taegon._.0202"/></a>
-<a href="https://tsatoa.github.io/"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=Blog&logoColor=white&link=https://tsatoa.github.io/"/></a>
+<a href="https://tsatoa.github.io/"><img src="https://img.shields.io/badge/Blog%20pages-121013?style=for-the-badge&logo=Blog&logoColor=white&link=https://tsatoa.github.io/"/></a>
 </p>
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
