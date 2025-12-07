@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=TSATOA%27s%20Github&fontSize=50" />
 
 <h3 align="center"><b> 👋 Hi! I'm Taegon Kim 👋 </b></h3>
-<p align="center">Currently a Computer Science student at Sogang University, I am deeply passionate about game development. <br>I am dedicated to enhancing gaming experiences and advancing in software technology using both Unity and Unreal Engine.</p>
+<p align="center">I am a Master's student in Computer Science & Engineering at Sogang University, currently conducting research in the CVIP Lab. <br> My work focuses on audio-visual learning, silent-video-based event detection, and generative AI. <br>I also have a strong interest in game development.<br> I am scheduled to join LG Electronics in 2027.</p>
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
@@ -28,7 +28,7 @@
 
 <h3 align="center"><b>🔫 Hits 🔫 </b></h3>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouhyeoneee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FTSATOA?color=blue&label=hits&size=small" alt="hits" /></a>
 </p>
 
 <p align="center">
